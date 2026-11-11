@@ -11,10 +11,10 @@
 </p>
 
 <p align='center'>
-   <a href="https://t.me/ВАШ_ТЕЛЕГРАМ">
+   <a href="https://t.me/ТЕЛЕГРАМ">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-   <a href="mailto:ВАША_ПОЧТА@gmail.com">
+   <a href="mailto:ПОЧТА@gmail.com">
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
    </a>
    <a href="https://hh.ru/resume/a0f28876ff0f3b73e00039ed1f344a33575a4d">
