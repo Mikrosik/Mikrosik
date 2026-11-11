@@ -17,7 +17,7 @@
    <a href="mailto:ВАША_ПОЧТА@gmail.com">
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
    </a>
-   <a href="https://hh.ru/resume/ВАШ_ID_НА_ХХ">
+   <a href="https://hh.ru/resume/a0f28876ff0f3b73e00039ed1f344a33575a4d">
        <img src="https://img.shields.io/badge/HeadHunter-FF0000?style=for-the-badge&logo=headhunter&logoColor=white"/>
    </a>
 </p>
