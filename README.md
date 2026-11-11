@@ -1,7 +1,7 @@
-# Hi, I'm Mikhail 👋
-**Infrastructure Engineer | Automation & AI-Driven Development**
+# Привет, я Михаил 👋
+**Инженер инфраструктуры | Автоматизация и AI-разработка**
 
-I am an infrastructure engineer with a strong background in industrial automation and networking. I love building reliable systems, automating routine tasks, and integrating AI tools into my daily workflow to deliver results faster and safer.
+Я инженер инфраструктуры с опытом в промышленной автоматизации и сетевых технологиях. Люблю строить надежные системы, автоматизировать рутину и внедрять ИИ-инструменты в ежедневную работу, чтобы делать задачи быстрее и безопаснее.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Mikrosik&show_icons=true&count_private=true&theme=radical">
@@ -22,23 +22,23 @@ I am an infrastructure engineer with a strong background in industrial automatio
    </a>
 </p>
 
-### 🛠 Technical Stack
-*   **Operating Systems:** Ubuntu Server, Astra Linux, Windows Server
-*   **Networking:** MikroTik, HP switches, VLAN, VPN, QoS, Routing
-*   **Automation & IaC:** Bash, Python, Ansible, Docker
-*   **Monitoring & Observability:** Zabbix, Prometheus, Grafana
-*   **AI Tools:** Cursor, Claude Code, ChatGPT (AI-assisted coding & scripting)
+### 🛠 Технологический стек
+*   **Операционные системы:** Ubuntu Server, Astra Linux, Windows Server
+*   **Сети:** MikroTik, коммутаторы HP, VLAN, VPN, QoS, маршрутизация
+*   **Автоматизация и IaC:** Bash, Python, Ansible, Docker
+*   **Мониторинг:** Zabbix, Prometheus, Grafana
+*   **ИИ-инструменты:** Cursor, Claude Code, ChatGPT (написание кода и скриптов с помощью ИИ)
 
-### 🚀 Key Projects & Scripts
+### 🚀 Ключевые проекты и скрипты
 
-*   **[Bash Backup Automation](ссылка_на_репозиторий_со_скриптом)** — A robust bash script for automated server backups using `rsync` + `cron`, featuring error handling, logging, and log rotation. Tested for network failures and disk space limits.
-*   **[Ansible Infrastructure Playbooks](ссылка_на_репозиторий_с_ansible)** — Configuration management playbooks for deploying Nginx, Docker, and managing users across multiple Ubuntu/Astra Linux servers.
-*   **[AI Prompts for Infrastructure](ссылка_на_репозиторий_с_промптами)** — A curated collection of prompts used with Cursor and Claude Code to generate boilerplate code, troubleshoot network issues, and automate routine tasks.
+*   **[Bash Backup Automation](ссылка_на_репозиторий_со_скриптом)** — Надежный bash-скрипт для автоматического резервного копирования серверов через `rsync` + `cron`. Включает обработку ошибок, логирование и ротацию логов. Протестирован на обрывах сети и переполнении диска.
+*   **[Ansible Infrastructure Playbooks](ссылка_на_репозиторий_с_ansible)** — Плейбуки для управления конфигурацией: развертывание Nginx, Docker и управление пользователями на серверах Ubuntu/Astra Linux.
+*   **[AI Prompts for Infrastructure](ссылка_на_репозиторий_с_промптами)** — Коллекция промптов для Cursor и Claude Code, которые я использую для генерации шаблонного кода, диагностики сетевых проблем и автоматизации рутины.
 
-### 💼 Background
-*   Currently working as an **Infrastructure Engineer** at NVI Solutions (Tyumen).
-*   Former **System Administrator** at Profi Group and **Engineer** at Kirov Machine-Building Plant.
-*   Deep understanding of physical hardware, industrial networks, and troubleshooting complex systems under pressure.
+### 💼 Опыт работы
+*   Сейчас работаю **Инженером инфраструктуры** в NVI Solutions (Тюмень).
+*   Ранее — **Системный администратор** в «Профи Групп» и **Инженер-наладчик** на Кировском Машзаводе 1 Мая.
+*   Глубоко понимаю «железо», промышленные сети и умею находить нестандартные решения в условиях ограниченного времени.
 
 ---
 <div align="center" style="margin: 40px 0">
